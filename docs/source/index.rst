@@ -11,6 +11,7 @@ Welcome to
    :caption: Animation
    
    example1
+   example2
 
 Indices and tables
 ==================
