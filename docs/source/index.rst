@@ -6,14 +6,15 @@
 Welcome to docstest's documentation!
 ====================================
 
-Contents:
-
 .. toctree::
-   :maxdepth: 2
-
+   :maxdepth: 1
+   :caption: Animation
+   
    example1
    example2
    example3
+   example4
+   example5
 
 Indices and tables
 ==================
