@@ -1,7 +1,7 @@
 F.A.Q.
 ========
 
-1. Ecли в Maya project folder не соответствует выбранному контексту - следует перезагрузить shotgun в maya:
+1. Ecли в Maya project folder не соответствует выбранному контексту - следует перезагрузить Shotgun в Maya:
 
 :ref:`reload-shotgun-label`
 
