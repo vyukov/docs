@@ -5,5 +5,3 @@ F.A.Q.
 
 .. _reload-shotgun-label:
 
-reload shotgun maya
-===================
