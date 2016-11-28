@@ -1,7 +1,7 @@
 F.A.Q.
 ========
 
-1. Ecли в Maya project folder не соответствует выбранному контексту - следует :ref:`Reload Shotgun Maya`
+1. Ecли в Maya project folder не соответствует выбранному контексту - следует :ref:`_Reload Shotgun Maya`
 
 	.. _Reload Shotgun Maya:
 
