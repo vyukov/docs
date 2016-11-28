@@ -6,4 +6,4 @@ reload shotgun maya
 
 .. image:: _templates/sg.png
 
-.. image:: _tem[lates/sg_reload.png
+.. image:: _templates/sg_reload.png
