@@ -6,6 +6,7 @@ reload shotgun maya
 
 .. image:: _templates/sg.png
 	:scale: 100%
+	:align: center
 _____
 
 .. image:: _templates/sg_reload.png
