@@ -4,6 +4,6 @@ reload shotgun maya
 
 *перезагрузка шотгана внутри приложения*
 
-.. templates:: sg.png
+.. image:: _templates/sg.png
 
-.. templates:: sg_reload.png
+.. image:: _tem[lates/sg_reload.png
