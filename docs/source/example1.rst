@@ -1,14 +1,17 @@
 F.A.Q.
 ========
 
-1. Ecли в Maya project folder не соответствует выбранному контексту - следует :ref:`rst-example3-label`:
+Для того, чтобы создать ссылку на другой раздел, необходимо сначала установить закладку перед этим разделом. Например, для ссылки на пункт :ref:`table-label` из раздела :ref:`rst-murkup-label` я использовал следующие команды:
+::
+    
+    .. _rst-murkup-label:
 
-	.. _reload-shotgun-maya-label:
-	
-	reload shotgun maya
-	~~~~~~~~~~~~~~~~~~~~
-	
-	.. _rst-example3-label:
-	
-	reload shotgun maya
+    Стандартный синтаксис разметки reStructuredText
+    ===============================================
+    
+        
+    .. _table-label:
+
+    Таблицы
+    ~~~~~~~
 _____
