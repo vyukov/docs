@@ -1,14 +1,14 @@
 F.A.Q.
 ========
 
-1. Ecли в Maya project folder не соответствует выбранному контексту - следует :ref:`перезагрузить-shotgun-в-Maya`:
+1. Ecли в Maya project folder не соответствует выбранному контексту - следует :ref:`перезагрузить shotgun в Maya`:
 
 	.. _rst-example3-label:
 	
 	reload shotgun maya
 	~~~~~~~~~~~~~~~~~~~~
 	
-	.. _reload-shotgun-maya-label:
+	.. _rst-example3-label:
 	
 	reload shotgun maya
 _____
