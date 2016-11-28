@@ -12,6 +12,7 @@ Welcome to
    
    example1
    example2
+   example3
 
 Indices and tables
 ==================
