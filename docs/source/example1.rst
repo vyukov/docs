@@ -1,9 +1,9 @@
 F.A.Q.
 ========
 
-1. Ecли в Maya project folder не соответствует выбранному контексту - следует :ref:`example3-label`
+1. Ecли в Maya project folder не соответствует выбранному контексту - следует :ref:`Reload Shotgun Maya`
 
-	.. _example3-lable:
+	.. Reload Shotgun Maya:
 
 	reload shotgun maya
-	~~~~~~~~~~~~~~~~~~~~
+	===================
