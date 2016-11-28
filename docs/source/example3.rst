@@ -1,3 +1,5 @@
+.. _reload-shotgun-label:
+
 ====================
 Reload Shotgun Maya
 ====================

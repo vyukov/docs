@@ -1,9 +1,9 @@
 F.A.Q.
 ========
 
-1. Ecли в Maya project folder не соответствует выбранному контексту - следует :ref:`Reload-Shotgun-Maya`
+1. Ecли в Maya project folder не соответствует выбранному контексту - следует :ref:`_reload-shotgun-label`
 
-	.. Reload-Shotgun-Maya:
+	.. _reload-shotgun-label:
 
 	reload shotgun maya
 	===================
