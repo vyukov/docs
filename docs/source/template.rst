@@ -76,11 +76,11 @@ ____
 
 .. table:: Простая таблица
 
-    =====  =====  =======
-      A      B    A and B
-    =====  =====  =======
-    False  False  False
-    True   False  False
-    False  True   False
-    True   True   True
-    =====  =====  =======
+    ========  ========  ==========
+      A         B       A and B
+    ========  ========  ==========
+    False     False     False
+    True      False     False
+    False     True      False
+    True      True      True
+    ========  ========  ==========
