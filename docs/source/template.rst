@@ -77,7 +77,7 @@ ____
 .. table:: *management*
 
     ========  ========  ==========
-      фффффф      ййй       A and B
+    фффффф      ййй       A and B
     ========  ========  ==========
     False     False     False
     True      False     False
