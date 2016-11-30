@@ -1,4 +1,4 @@
-welcome to Animagrad
+Welcome to Animagrad
 =====================
 * Твой е-мейл: %employee%@animagrad.com.  *В нем будет вся нужная тебе информация для работы а, также все дальнейшие инструкции.*
 
