@@ -13,6 +13,7 @@ Welcome to test docs anim
    example1
    example2
    example3
+   template
 
 Indices and tables
 ==================
