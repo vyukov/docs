@@ -42,7 +42,7 @@ welcome to Animagrad
 
 ____
 
-.. _table-label:
+
 
 ----------
 checklist
