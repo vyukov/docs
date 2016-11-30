@@ -77,10 +77,10 @@ ____
 .. table:: *management*
 
     ================  ================  ================
-    директор студии      ййй       A and B
+    директор студии   ййй               A and B
     ================  ================  ================
-    False     False     False
-    True      False     False
-    False     True      False
-    True      True      True
+    False             False             False
+    True              False             False
+    False             True              False
+    True              True              True
     ================  ================  ================
