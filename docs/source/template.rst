@@ -77,7 +77,7 @@ ____
 .. table:: Простая таблица
 
     ========  ========  ==========
-      A         B       A and B
+      ффф      ййй       A and B
     ========  ========  ==========
     False     False     False
     True      False     False
