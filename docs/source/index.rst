@@ -14,6 +14,7 @@ Welcome to test docs anim
    example2
    example3
    template
+   table
 
 Indices and tables
 ==================
