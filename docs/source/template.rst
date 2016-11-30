@@ -42,7 +42,7 @@ Welcome to Animagrad
 
 ____
 
-----------
+
 checklist
 ----------
 
