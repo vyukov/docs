@@ -1,7 +1,7 @@
+.. _table-label:
+
 table
 ======
-
-.. _table-label:
 
 ::
 
