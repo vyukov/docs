@@ -42,6 +42,7 @@ welcome to Animagrad
 
 ____
 
+:ref:`table-label`
 
 .. _table-label:
 
