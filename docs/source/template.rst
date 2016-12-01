@@ -97,7 +97,7 @@ ____
      - Алла Шебанова
 	 
 .. list-table:: modeling dep (sets & props)
-   :widths: 50 50
+   :widths: 30 30
    :header-rows: 1
 
    * - art director
@@ -131,3 +131,66 @@ ____
      - координатор
    * - Антон Савин
      - Мария Клаунинг
+	 
+.. list-table:: compositing dep
+   :widths: 30 30
+   :header-rows: 1
+
+   * - art director
+     - координатор
+   * - Павел Подорван
+     - Александра Луценко
+	 
+.. list-table:: lighting dep
+   :widths: 30 30
+   :header-rows: 1
+
+   * - art director
+     - координатор
+   * - Станислав Кичик
+     - Александра Луценко
+	 
+.. list-table:: VFX dep
+   :widths: 30 30
+   :header-rows: 1
+
+   * - art director
+     - координатор
+   * - Андрей Алтухов
+     - Мария Смирнова
+	 
+.. list-table:: CFX dep (character fx)
+   :widths: 30 30
+   :header-rows: 1
+
+   * - art director
+     - координатор
+   * - Дмитрий Косовский
+     - Мария Смирнова
+	 
+.. list-table:: pipeline dep \ technical support
+   :widths: 30 30
+   :header-rows: 1
+
+   * - pipeline TD
+     - координатор
+   * - Дмитрий Стабров
+     - Даниил Вьюков
+	 
+.. list-table:: R&D dep
+   :widths: 30 30
+   :header-rows: 1
+
+   * - pipeline TD
+     - координатор
+   * - Андрей Милицкий 
+     - Даниил Вьюков
+	 
+.. list-table:: IT dep
+   :widths: 30 30
+   :header-rows: 1
+
+   * - pipeline TD
+     - координатор
+   * - Сергей Невмержицкий
+     - Даниил Вьюков
