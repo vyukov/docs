@@ -97,7 +97,7 @@ ____
      - Алла Шебанова
 	 
 .. list-table:: modeling dep (sets & props)
-   :widths: 30 30
+   :widths: 50 50
    :header-rows: 1
 
    * - art director
@@ -106,7 +106,7 @@ ____
      - Ирина Момотюк
 	 
 .. list-table:: rigging dep
-   :widths: 20 20
+   :widths: 30 30
    :header-rows: 1
 
    * - art director
