@@ -77,8 +77,8 @@ ____
 -----------------
 	
 .. list-table:: management
-   :widths: 20 20 20
-   :header-rows: 3
+   :widths: 30 30 30
+   :header-rows: 1
 
    * - Директор студии
      - Руководитель производства
@@ -88,8 +88,8 @@ ____
      - Вероника Пантелеева
 
 .. list-table:: art dep
-   :widths: 20 20
-   :header-rows: 2
+   :widths: 30 30
+   :header-rows: 1
 
    * - art director
      - координатор
@@ -97,7 +97,7 @@ ____
      - Алла Шебанова
 	 
 .. list-table:: modeling dep (sets & props)
-   :widths: 20 20
+   :widths: 30 30
    :header-rows: 1
 
    * - art director
@@ -106,7 +106,7 @@ ____
      - Ирина Момотюк
 	 
 .. list-table:: rigging dep
-   :widths: 20 20
+   :widths: 30 30
    :header-rows: 1
 
    * - art director
@@ -115,7 +115,7 @@ ____
      - Ирина Момотюк
 
 .. list-table:: layout dep
-   :widths: 20 20
+   :widths: 30 30
    :header-rows: 1
 
    * - art director
@@ -124,7 +124,7 @@ ____
      - Мария Клаунинг
 	 
 .. list-table:: animation dep
-   :widths: 20 20
+   :widths: 30 30
    :header-rows: 1
 
    * - art director
