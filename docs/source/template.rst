@@ -70,7 +70,7 @@ checklist
     |	|check-button| * отнести их офис-менеджеру Татьяне Вишняк           |
     +-----------------------------------------------------------------------+
 	
-	.. |check-button| image:: _templates/checkbutton.png
+.. |check-button| image:: _templates/checkbutton.png
 ____
 
 структура студии
