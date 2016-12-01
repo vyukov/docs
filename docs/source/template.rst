@@ -106,7 +106,7 @@ ____
      - Ирина Момотюк
 	 
 .. list-table:: rigging dep
-   :widths: 30 30
+   :widths: 20 20
    :header-rows: 1
 
    * - art director
