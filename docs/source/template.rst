@@ -78,7 +78,7 @@ ____
 	
 .. list-table:: management
    :widths: 20 20 20
-   :header-rows: 1
+   :header-rows: 3
 
    * - Директор студии
      - Руководитель производства
@@ -89,7 +89,7 @@ ____
 
 .. list-table:: art dep
    :widths: 20 20
-   :header-rows: 1
+   :header-rows: 2
 
    * - art director
      - координатор
