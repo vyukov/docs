@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to test docs anim
-====================================
+===========================
 
 .. toctree::
    :maxdepth: 1
@@ -18,7 +18,7 @@ Welcome to test docs anim
    
    
 Indices and tables
-==================
+===================
 
 * :ref:`genindex`
 * :ref:`modindex`
