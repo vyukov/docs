@@ -14,6 +14,7 @@ Welcome to test docs anim
    example2
    example3
    template
+   modeling_workflow
 
 Indices and tables
 ==================
