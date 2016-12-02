@@ -10,10 +10,10 @@ Welcome to test docs anim
    :maxdepth: 1
    :caption: Animation
    
+   template
    example1
    example2
    example3
-   template
    modeling_workflow
 
 Indices and tables
