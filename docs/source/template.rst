@@ -76,7 +76,7 @@ ____
 структура студии
 -----------------
 	
-.. list-table:: management
+.. list-table:: **management**
    :widths: 30 30 30
    :header-rows: 1
 
