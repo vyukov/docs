@@ -20,7 +20,3 @@ _____
 	
 ________
 
-runtime_error
---------------
-
-.. image:: _templates/run_error.png
