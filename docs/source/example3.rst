@@ -1,8 +1,11 @@
 .. _reload-shotgun-label:
 
-====================
+======
+error
+======
+
 Reload Shotgun Maya
-====================
+--------------------
 
 *перезагрузка шотгана внутри приложения*
 
@@ -15,3 +18,9 @@ _____
 	:scale: 100%
 	:align: center
 	
+________
+
+runtime_error
+--------------
+
+.. image:: _templates/run_error.png
