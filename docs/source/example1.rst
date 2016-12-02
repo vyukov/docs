@@ -7,3 +7,9 @@ F.A.Q.
 
 .. _reload-shotgun-label:
 
+________
+
+runtime_error
+--------------
+
+.. image:: _templates/run_error.png
