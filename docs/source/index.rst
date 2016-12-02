@@ -12,10 +12,11 @@ Welcome to test docs anim
    
    template
    example1
+   modeling_workflow
    example2
    example3
-   modeling_workflow
-
+   
+   
 Indices and tables
 ==================
 
