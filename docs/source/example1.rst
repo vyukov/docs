@@ -4,7 +4,7 @@ F.A.Q.
 Reload Shotgun Maya
 --------------------
 
-.. error:: Ecли в Maya project folder не соответствует выбранному контексту - следует перезагрузить Shotgun в Maya:
+.. error:: Ecли в Maya project folder не соответствует выбранному контексту - следует перезагрузить Shotgun в Maya
 
 *перезагрузка шотгана внутри приложения*
 
