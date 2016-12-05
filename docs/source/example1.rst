@@ -1,25 +1,26 @@
 F.A.Q.
 ========
 
-.. error:: **reload shotgun**
-------------------------------
+.. error:: **reload shotgun** 
 
 Ecли в Maya project folder не соответствует выбранному контексту - следует перезагрузить Shotgun в Maya:
 
 :ref:`reload-shotgun-label`
 
-.. _reload-shotgun-label:
 ________
 
-.. error:: **runtime_error**
------------------------------
+runtime_error
+--------------
+
+.. error:: **runtime_error** 
 
 .. image:: _templates/run_error.png
-
 ________
 
+delete node
+-------------
+
 .. error:: **delete node** 
-----------------------------
 
 при возникновении подобной проблемы:
 
