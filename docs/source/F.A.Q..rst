@@ -18,13 +18,13 @@ Reload Shotgun Maya
 	
 ________
 
-runtime_error
+Runtime Error
 --------------
 
 .. error:: .. image:: _templates/run_error.png
 ________
 
-delete node
+Delete Node
 -------------
 
 
@@ -41,3 +41,4 @@ delete node
 .. image:: _templates/delnod3.png
 
 ________
+
