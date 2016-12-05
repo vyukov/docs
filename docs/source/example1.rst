@@ -6,12 +6,11 @@ Reload Shotgun Maya
 
 .. error:: Ecли в Maya project folder не соответствует выбранному контексту - следует перезагрузить Shotgun в Maya
 
-*перезагрузка шотгана внутри приложения*
+перезагрузка шотгана внутри приложения:
 
 .. image:: _templates/sg.png
 	:scale: 100%
 	:align: center
-_____
 
 .. image:: _templates/sg_reload.png
 	:scale: 100%
@@ -37,7 +36,7 @@ delete node
 
 .. image:: _templates/delnod2.png
 
-перед этим скопировав название ноды из шотгановского окна ошибки, и вставить в встроку ввода тулзы:
+перед этим скопировав название ноды из шотгановского окна ошибки, и вставить в встроку ввода:
 
 .. image:: _templates/delnod3.png
 
