@@ -11,12 +11,10 @@ Welcome to test docs anim
    :caption: Animation
    
    template
-   example1
+   F.A.Q.
    modeling_workflow
-   example2
-   
-   
-Indices and tables
+
+   Indices and tables
 ===================
 
 * :ref:`genindex`
