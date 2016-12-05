@@ -5,6 +5,7 @@ Ecли в Maya project folder не соответствует выбранном
 
 :ref:`reload-shotgun-label`
 
+
 ________
 
 runtime_error
@@ -21,7 +22,7 @@ delete node
 
 .. image:: _templates/delnod.png
 
-Следует нажаить delete node: в AMG tools – utils:
+следует нажаить delete node: в AMG tools – utils:
 
 .. image:: _templates/delnod2.png
 
