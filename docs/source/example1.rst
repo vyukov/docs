@@ -33,7 +33,7 @@ delete node
 
 .. error:: .. image:: _templates/delnod.png
 
-следует нажаить delete node: в AMG tools – utils:
+следует нажаить *delete node: в AMG tools – utils:*
 
 .. image:: _templates/delnod2.png
 
