@@ -1,13 +1,22 @@
 F.A.Q.
 ========
 
-reload shotgun
---------------- 
+Reload Shotgun Maya
+--------------------
 
 .. error:: Ecли в Maya project folder не соответствует выбранному контексту - следует перезагрузить Shotgun в Maya:
 
-:ref:`reload-shotgun-label`
+*перезагрузка шотгана внутри приложения*
 
+.. image:: _templates/sg.png
+	:scale: 100%
+	:align: center
+_____
+
+.. image:: _templates/sg_reload.png
+	:scale: 100%
+	:align: center
+	
 ________
 
 runtime_error

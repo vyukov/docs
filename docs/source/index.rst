@@ -14,7 +14,6 @@ Welcome to test docs anim
    example1
    modeling_workflow
    example2
-   example3
    
    
 Indices and tables
