@@ -14,7 +14,7 @@ runtime_error
 
 .. error:: **runtime_error** 
 
-.. image:: _templates/run_error.png
+.. error:: .. image:: _templates/run_error.png
 ________
 
 delete node
