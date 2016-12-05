@@ -5,7 +5,7 @@ Ecли в Maya project folder не соответствует выбранном
 
 :ref:`reload-shotgun-label`
 
-
+.. _reload-shotgun-label:
 ________
 
 runtime_error
@@ -15,7 +15,7 @@ runtime_error
 
 ________
 
-delete node
+.. error:: Блок **delete node** ``.. error::``
 -------------
 
 при возникновении подобной проблемы:
