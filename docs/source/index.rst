@@ -13,6 +13,7 @@ Welcome to test docs anim
    template
    F.A.Q.
    modeling_workflow
+   location_breakdown_help
 
    Indices and tables
 ===================
