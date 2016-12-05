@@ -1,9 +1,10 @@
 F.A.Q.
 ========
 
-.. error:: **reload shotgun** 
+reload shotgun
+--------------- 
 
-Ecли в Maya project folder не соответствует выбранному контексту - следует перезагрузить Shotgun в Maya:
+.. error:: Ecли в Maya project folder не соответствует выбранному контексту - следует перезагрузить Shotgun в Maya:
 
 :ref:`reload-shotgun-label`
 
@@ -12,19 +13,16 @@ ________
 runtime_error
 --------------
 
-.. error:: **runtime_error** 
-
 .. error:: .. image:: _templates/run_error.png
 ________
 
 delete node
 -------------
 
-.. error:: **delete node** 
 
 при возникновении подобной проблемы:
 
-.. image:: _templates/delnod.png
+.. error:: .. image:: _templates/delnod.png
 
 следует нажаить delete node: в AMG tools – utils:
 
