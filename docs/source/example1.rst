@@ -5,7 +5,7 @@ Ecли в Maya project folder не соответствует выбранном
 
 :ref:`reload-shotgun-label`
 
-.. _reload-shotgun-label:
+
 
 ________
 
