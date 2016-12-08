@@ -6,7 +6,7 @@ Modeling
 Publish Textures
 ------------------
 
-Запускаем Shotgun Publisher "с ярлычка" sg_publisher на рабочем столе.
+Запускаем **Shotgun Publisher** с ярлыка **sg_publisher** на рабочем столе.
 
 Выбираем проект из выпадающего списка проектов.
 
