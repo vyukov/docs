@@ -14,6 +14,7 @@ Welcome to test docs anim
    F.A.Q.
    modeling_workflow
    location_breakdown_help
+   rig
 
 
    Indices and tables
