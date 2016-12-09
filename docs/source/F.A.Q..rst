@@ -25,7 +25,7 @@ Runtime Error
 --------------
 
 .. image:: _templates/run_error.png
-:align: center
+	:align: center
 ________
 
 Delete Node
@@ -35,12 +35,12 @@ Delete Node
 при возникновении подобной проблемы:
 
 .. image:: _templates/delnod.png
-:align: center
+	:align: center
 	
 следует нажаить *delete node:* в **AMG tools – utils:**
 
 .. image:: _templates/delnod2.png
-:align: center
+	:align: center
 	
 перед этим скопировав название ноды из шотгановского окна ошибки, и вставить в встроку ввода:
 
