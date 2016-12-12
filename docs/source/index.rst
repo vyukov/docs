@@ -16,8 +16,8 @@ Welcome to test docs anim
    location_breakdown_help
    rig
    cfx
-	.. _cloth-lable:
-	.. _hair-lable:
+   Cloth
+   Hair
 
 
    Indices and tables

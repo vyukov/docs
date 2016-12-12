@@ -5,4 +5,8 @@ CFX
 
 .. _cloth-lable:
 
+Cloth
+
 .. _hair-lable:
+
+Hair
