@@ -1,4 +1,4 @@
-.. cfx_hair-lable:
+.. _rst-cfx-hair-lable:
 
 Hair
 ======
