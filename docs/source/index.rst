@@ -16,13 +16,14 @@ Welcome to test docs anim
    location_breakdown_help
    rig
 
-.. toctree::
-   :maxdepth: 1
-   :caption: CFX
-
+====
+CFX
+====
 
 Основная задача отдела CharacterFX заключается в симуляции волос и ткани на персонажах.
 
+.. toctree::
+   :maxdepth: 1
 
    cfx_cloth
    cfx_hair
