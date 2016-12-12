@@ -1,4 +1,4 @@
-.. _rst-cfx_cloth-lable:
+.. _rst-cfx-cloth-lable:
 
 Cloth
 =======
