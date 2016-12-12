@@ -19,9 +19,7 @@ Welcome to test docs anim
 .. toctree::
    :maxdepth: 1
    :caption: CFX
-   
-	Основная задача отдела CharacterFX заключается в симуляции волос и ткани на персонажах.
-	
+   	
    cfx
    cfx_cloth
    cfx_hair

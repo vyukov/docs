@@ -1,4 +1,4 @@
-.. _cfx_cloth-lable:
+.. cfx_cloth-lable:
 
 Cloth
 =======
