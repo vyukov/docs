@@ -15,16 +15,13 @@ Welcome to test docs anim
    modeling_workflow
    location_breakdown_help
    rig
-   cfx
-   Cloth
-   Hair
 
 .. toctree::
    :maxdepth: 1
    :caption: CFX
    
    cfx
-   Cloth
-   Hair
+   cfx_cloth
+   cfx_hair
 
 
