@@ -24,6 +24,7 @@ CFX
 
 .. toctree::
    :maxdepth: 1
-
+   :caption: CFX
+   
    cfx_cloth
    cfx_hair
