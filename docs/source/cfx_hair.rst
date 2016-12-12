@@ -1,3 +1,5 @@
+.. _cfx_hair-lable:
+
 Hair
 ======
 
