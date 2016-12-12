@@ -1,4 +1,4 @@
-Hair:
+Hair
 ======
 
 .. _hair-lable:

@@ -1,4 +1,4 @@
-Cloth:
+Cloth
 =======
 
 .. _cloth-lable:
