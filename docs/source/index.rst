@@ -19,11 +19,12 @@ Welcome to test docs anim
    Cloth
    Hair
 
+.. toctree::
+   :maxdepth: 1
+   :caption: CFX
+   
+   cfx
+   Cloth
+   Hair
 
-   Indices and tables
-===================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
