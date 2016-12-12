@@ -6,7 +6,9 @@ CFX
 .. _rst-cfx-cloth-lable:
 
 cloth
+~~~~~~
 
 .. _rst-cfx-hair-lable:
 
 hair
+~~~~~
