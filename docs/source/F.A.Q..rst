@@ -11,7 +11,7 @@ Reload Shotgun Maya
 
 перезагрузка шотгана внутри приложения:
 
-.. image:: _templates/sg.png .. error:: 
+.. image:: _templates/sg.png	.. error:: 
 	:scale: 100%
 	:align: center
 
