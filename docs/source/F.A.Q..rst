@@ -19,7 +19,7 @@ Reload Shotgun Maya
 .. image:: _templates/sg_reload.png
 	:scale: 100%
 	:align: center
-	
+.. error:: 	
 ________
 
 Runtime Error
