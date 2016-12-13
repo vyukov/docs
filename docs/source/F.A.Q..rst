@@ -37,7 +37,7 @@ Delete Node
 .. image:: _templates/delnod.png
 	:align: center
 	
-следует нажаить *delete node:* в **AMG tools – utils:**
+следует нажаить **delete node:** в **AMG tools – utils:**
 
 .. image:: _templates/delnod2.png
 	:align: center
