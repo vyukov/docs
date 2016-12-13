@@ -3,12 +3,12 @@ CFX
 
 Основная задача отдела CharacterFX заключается в симуляции волос и ткани на персонажах.
 
-.. _rst-cfx-cloth-lable:
+	:ref: 'cfx-cloth-lable'
 
 cloth
 ~~~~~~
 
-.. _rst-cfx-hair-lable:
+	:ref: 'cfx-hair-lable'
 
 hair
 ~~~~~
