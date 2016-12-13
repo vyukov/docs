@@ -5,10 +5,4 @@ CFX
 
 	:ref:`cfx-cloth-lable`
 
-cloth
-~~~~~~
-
 	:ref:`cfx-hair-lable`
-
-hair
-~~~~~
